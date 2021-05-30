@@ -1,4 +1,4 @@
-{ "applications" : [
+{ "applications" : {
     {
         "name": "Capital Logic",
         "rootPath": "CAPITAL_HOME",
@@ -54,5 +54,5 @@
         "mandatory": true,
         "defaultVisibility": false
     }
-]
+}
 }
