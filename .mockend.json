@@ -23,7 +23,7 @@
         "appfamily": "NX",
         "categorization": [{"category": "Mechanical", "group": "3D design"}, {"category": "Simulation", "group": "Electrical"}],
         "isCustomApp": false,
-        "infoUrl": "http://nx.infohub.com"
+        "infoUrl": "http://nx.infohub.com",
         "mandatory": false,
         "defaultVisibility": true
     },
