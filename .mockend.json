@@ -36,7 +36,7 @@
         "appfamily": "Capital",
         "categorization": [{"category": "Integrated Electrical Systems", "group": "Define"}],
         "isCustomApp": false,
-        "infoUrl": "http://integrator.infohub.com"
+        "infoUrl": "http://integrator.infohub.com",
         "mandatory": true,
         "defaultVisibility": true
     },
