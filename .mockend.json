@@ -46,11 +46,11 @@
         "path": "http://localhost:49901/reporter",
         "description": "Reports for Capital design applications",
         "appType": "Web",
-        "iconPath": "C:/apps/reporter/fav.ico"
+        "iconPath": "C:/apps/reporter/fav.ico",
         "appfamily": "Capital",
         "categorization": [{"category": "Integrated Electrical Systems", "group": "Maintain"}],
         "isCustomApp": false,
-        "infoUrl": "http://cer.infohub.com"
+        "infoUrl": "http://cer.infohub.com",
         "mandatory": true,
         "defaultVisibility": false
     }
